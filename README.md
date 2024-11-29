@@ -1,6 +1,11 @@
 # ApplicationForConferences
 
-苏大 参加国际会议申请
+苏大学生参加国际会议申请流程总结。
+
+> Thanks for Chaoqun Liu's work. \
+> You can check the below url.
+
+https://gwvo2nyzhgi.feishu.cn/docx/EttUdSFv6oWKmRx1WcQcvnZxnlg
 
 ## 报销
 
